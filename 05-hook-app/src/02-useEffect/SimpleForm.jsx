@@ -17,7 +17,7 @@ export const SimpleForm = () => {
             [name]: value,
         })
     }
-
+    
     useEffect(() => {
 
     }, );

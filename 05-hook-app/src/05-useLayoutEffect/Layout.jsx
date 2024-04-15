@@ -8,6 +8,7 @@ export const Layout = () => {
 
     const { data, hasError, isLoading } = useFetch(`https://pokeapi.co/api/v2/pokemon/${counter}`);
 
+    
 
     return (
         <>
